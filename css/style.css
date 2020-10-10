@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+     background-color: #0d0d0d;
+    
+}
+.first_image{
+  background-image: url("https://cutt.ly/ggrDNFC");
+  background-color: rgb(87, 82, 82);
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  }
+h1{
+     font-family: 'Quattrocento', serif;
+    font-size: 20px;
+    margin-left: 150px;
+    margin-right: 800px;
+    padding-top: 100px;
+    color: rgb(66, 47, 47);
+    }
+
+h2{
+    font-family: 'Oswald', sans-serif;
+    color: rgb(66, 47, 47);
+    font-size: 14px;
+    margin-left: 200px;
+    margin-right:800px;
+    text-shadow: 0 0 0.2em rgb(216, 184, 179), 0 0 0.2em rgb(216, 184, 179);
+}
+
