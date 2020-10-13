@@ -14,7 +14,7 @@ body{
   }
 h1{
      font-family: 'Quattrocento', serif;
-    font-size: 20px;
+    font-size: 50px;
     margin-left: 150px;
     margin-right: 800px;
     padding-top: 100px;
@@ -24,7 +24,7 @@ h1{
 h2{
     font-family: 'Oswald', sans-serif;
     color: rgb(66, 47, 47);
-    font-size: 14px;
+    font-size: 20x;
     margin-left: 200px;
     margin-right:800px;
     text-shadow: 0 0 0.2em rgb(216, 184, 179), 0 0 0.2em rgb(216, 184, 179);
